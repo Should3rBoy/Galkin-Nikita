@@ -2,5 +2,4 @@ def HelloWorld(x):
     print("Hello, " + x)
 
 HelloWorld("print")
-print("Wilkommen!")
-print(int(input()) + int(input()))
+print(int(input("Введите первое число: ")) + int(input("Введите второе число: ")))
