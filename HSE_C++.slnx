@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="HSE_C++/HSE_C++.vcxproj" Id="b20d962a-5e9b-4565-9bec-29a7317e96bd" />
+</Solution>
